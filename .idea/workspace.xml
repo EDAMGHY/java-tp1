@@ -5,43 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="448ceb06-3f5a-494d-b5b1-9d2c88760418" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex1/Compte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex2/Adherent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex2/Auteur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex2/Livre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex2/Personne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex3/Avion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex3/Moto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex3/Vehicule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex3/Voiture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex4/Employe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex4/Ingenieur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex4/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex5/Cercle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex5/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex5/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex6/DVD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex6/Empruntable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex6/GestionBibliothequeApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex6/Livre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex6/Utilisateur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex7/CarteCredit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex7/Commande.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex7/GestionPaiementApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex7/Paiement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex7/PayPal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/damri/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
@@ -76,7 +43,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/abdell/IdeaProjects/java-tp1/src/main/java/ex1",
     "node.js.detected.package.eslint": "true",
@@ -115,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711799381511</updated>
-      <workItem from="1711799382589" duration="10859000" />
+      <workItem from="1711799382589" duration="11077000" />
     </task>
     <servers />
   </component>
